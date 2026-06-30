@@ -1,0 +1,4 @@
+# Pryzm Version History
+# Format: VERSION | DATE | NOTES
+
+v0.29.0 | 2025-07-30 | Initial version, created from pre-built binaries
